@@ -1,6 +1,5 @@
 # Join Bejeweled Game
 
-Game to submit code to Join.Build
 ![alt text](https://raw.githubusercontent.com/dannysbentley/Bejeweled_Join/master/gif/JoinGame.gif)
 
 ## Getting Started
